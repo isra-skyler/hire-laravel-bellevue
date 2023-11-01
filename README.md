@@ -1,4 +1,4 @@
-# 10 Advanced Authentication Techniques for Laravel APIs
+# 7 Advanced Authentication Techniques for Laravel APIs
 
 Securing application programming interfaces (APIs) is critical as organizations increasingly leverage flexible digital services driven by connected data. At Hybrid Web Agency, our team of expert Laravel developers based in Bellevue, WA is well-versed in securing APIs through diverse authentication solutions. [Hire Laravel Developers in Bellevue](https://hybridwebagency.com/bellevue-wa/hire-laravel-developers/) to handle any Laravel authentication needs for both web and mobile applications.
 
